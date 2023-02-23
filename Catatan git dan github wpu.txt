@@ -19,3 +19,11 @@ b. klik tanda + pojok kanan atas
 a. new repository
 ( beri nama repository dan deskripsi )
 c. create repository
+
+Cara membuat file di repository
+a. add file
+b. create new file
+( tulis judul dan extension file -- isi file )
+c. beri judul commit changes 
+d. commit changes
+e. 
