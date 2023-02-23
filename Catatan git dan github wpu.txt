@@ -26,3 +26,8 @@ b. create new file
 ( tulis judul dan extension file -- isi file )
 c. beri judul commit changes 
 d. commit changes
+
+Cara melihat history commit
+a. klik file
+b. klik blame
+c. klik history
