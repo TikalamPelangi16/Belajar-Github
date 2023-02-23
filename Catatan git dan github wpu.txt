@@ -1,0 +1,15 @@
+* Version Control System adalah system yang menyimpan dan mengelola rekaman perubahan dari source code
+* Git adalah salah satu software yang bisa melakukan VCS
+* Github adalah website atau layanan ( online ) untuk mengelola project git
+
+ISTILAH GIT
+repo = folder project
+commit = rekaman atau snapshot dari repo
+hash = penanda unik pada sebuah commit
+checkout = berpindah ke sebuah commit
+branch = cabang bebas dari sebuah commit
+merge = menggabungkan branch
+remote = sumber yang memiliki repo
+clone = mengambil repo dari remote
+push = mengirim commit ke repo
+pull = mengambil commit dari repo
