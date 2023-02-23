@@ -13,3 +13,9 @@ remote = sumber yang memiliki repo
 clone = mengambil repo dari remote
 push = mengirim commit ke repo
 pull = mengambil commit dari repo
+
+Cara membuat repositori github
+b. klik tanda + pojok kanan atas
+a. new repository
+( beri nama repository dan deskripsi )
+c. create repository
