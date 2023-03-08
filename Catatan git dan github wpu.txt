@@ -31,3 +31,10 @@ Cara melihat history commit
 a. klik file
 b. klik blame
 c. klik history
+
+Cara membuat branch baru 
+a. klik file yang ada di repo
+b. klik edit
+c. beri nama commit 
+d. klik create a new branch 
+e. klik propose changes
